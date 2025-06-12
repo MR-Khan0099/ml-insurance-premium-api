@@ -29,7 +29,7 @@ def predict_premium(data: UserInput):
         'lifestyle_risk': data.lifestyle_risk,
         'city_tier': data.city_tier,
         'income_lpa': data.income_lpa,
-        'occupation': data.occupation
+        'occupation': data.occupation   
     }
 
 
